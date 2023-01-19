@@ -1,8 +1,8 @@
 {
   "name": "parceljs-pwa",
   "version": "1.0.0",
-  "repository": "https://github.com/jtumano/parceljs-pwa.git",
-  "author": "Jan Tumanov <external.jan.tumanov@kuehne-nagel.com>",
+  "repository": "https://github.com/psschand16/parceljs-pwa.git",
+  "author": "surya",
   "license": "MIT",
   "scripts": {
     "start": "parcel ./src/index.html",
